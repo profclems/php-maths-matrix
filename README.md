@@ -20,5 +20,5 @@ Perform operations on matrices with this class
 				<li>Literally, divide 2x2 matrices by multiplying the divided by the inverse of the divisor.</li>
 			</ol>
 		</div>
-#Demo & Usage
+<h1>Demo & Usage</h1>
 <a href="https://php-maths-matrix.herokuapp.com/">https://php-maths-matrix.herokuapp.com/</a>
