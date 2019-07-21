@@ -15,3 +15,6 @@ It can take bi-dimensional arrays with numbers as parameters and can perform sev
 - Calculate a matrix co-factor
 - Calculate a matrix minor
 - Solve an equation given two matrices of factors
+
+# Demo & Usage
+php-maths-matrix.herokuapp.com
