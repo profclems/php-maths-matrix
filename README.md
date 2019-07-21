@@ -17,4 +17,5 @@ It can take bi-dimensional arrays with numbers as parameters and can perform sev
 - Solve an equation given two matrices of factors
 
 # Demo & Usage
-php-maths-matrix.herokuapp.com
+[php-maths-matrix.herokuapp.com](php-maths-matrix.herokuapp.com
+)
