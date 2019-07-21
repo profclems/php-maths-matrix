@@ -1,3 +1,4 @@
+# PHP Matrix Maths Library
 This class can perform operations to manipulate matrices
 
 It can take bi-dimensional arrays with numbers as parameters and can perform several types of matrix operations. Currently it can:
