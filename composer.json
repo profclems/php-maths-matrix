@@ -1,0 +1,19 @@
+{
+    "name": "profclems/maths-matrix",
+    "description": "Perform operations on matrices",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Clement Sam",
+            "email": "clementsam75@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Profclems\\MathsMatrix\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
